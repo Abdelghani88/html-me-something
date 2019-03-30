@@ -1,3 +1,29 @@
 h1{
     color:red;
+    text-align: center;
+}
+body{
+    background-color: grey;
+}
+#container{
+    background-color: white;
+    width:400 px;
+    margin-left:auto;
+    margin-right:auto;
+    font-family: Arial, Helvetica, sans-serif;
+    border-right:5px blue solid;
+    border-left:5px blue solid;
+    border-top:5px blue solid;
+    border-bottom:5px blue solid;
+    padding-right:20px;
+    padding-left:20px;
+    padding-top:20px;
+    padding-bottom:20px;
+    margin-right:20px;
+    margin-left:20px;
+    margin-top:20px;
+    margin-bottom:20px;
+    }
+#footer{
+    text-align:center;
 }
