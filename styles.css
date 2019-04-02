@@ -20,6 +20,10 @@ body{
     margin-top:20px;
     margin-bottom:20px;
     float:left;
+    border-left:red;
+    Border-right:red;
+    border-top:red;
+    border-bottom:red;
     }
 #picture{
     float:right;
